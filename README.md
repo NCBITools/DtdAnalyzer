@@ -1,4 +1,4 @@
-﻿#DtdAnalyzer
+#DtdAnalyzer
 
 DtdAnalyzer provides a set of tools:
 
